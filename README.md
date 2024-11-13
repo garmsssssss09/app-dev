@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/66a19098-6614-495b-a54c-c1d842b76b16)# app-dev
+# app-dev
 My first repository
 	**My Favorite Series is One Piece**
 1. One Piece follows Monkey D. Luffy and his crew on an adventurous quest to find the legendary treasure and become the King of the Pirates. ![Monkey D. Luffy](https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/one-piece-luffy-putting-on-his-straw-hat.jpg?q=70&fit=crop&w=1140&h=&dpr=1)
